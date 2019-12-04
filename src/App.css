@@ -20,3 +20,40 @@
 .App-link {
   color: #09d3ac;
 }
+.btn {
+  margin: auto;
+  margin-top: 0px;
+  height: 20vh;
+  width: 30px;
+  border-radius: 20px;
+  background-color: black;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+}
+#drum-pads {
+  background-color: white;
+  width: 85vw;
+  height: 35vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  border-radius: 80px;
+}
+#display {
+  background-color: blue;
+  font-size: 30px;
+  width: 40vw;
+  border-radius: 100%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+body {
+  background-color: #2dab2d;
+}
